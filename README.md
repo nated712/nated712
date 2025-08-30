@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nated712
 - 👀 I’m interested in game design and AI
-- 🌱 I’m currently learning Unity and C++
+- 🌱 I’m currently working on a website
 - 📫 How to reach me nated712@gmail.com
 - 😄 Pronouns: they/them
 
